@@ -15,7 +15,7 @@
 ✅ **Popup UI**
   - Displays URL status and phishing risk in real time
 ✅ **Badge Alert**
-  - Shows a ⚠️ warning in the toolbar when a threat is detected
+  - Shows a warning in the toolbar when a threat is detected
 
 ---
 
