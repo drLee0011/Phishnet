@@ -43,5 +43,3 @@
 
 ---
 
-## 📁 Folder Structure
-
